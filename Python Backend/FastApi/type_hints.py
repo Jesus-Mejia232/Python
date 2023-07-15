@@ -7,4 +7,3 @@ print(type(varibale_texto))
 
 "Qué es el tipado dinamico?"
 #El tipado dinamico es cuando asignamos un valor a una variable, pero luego le cambiamos ese valor por otro
-#Como siempre goku le gana
